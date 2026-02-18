@@ -1,0 +1,138 @@
+{
+  "version": 1,
+  "remarks": "HTNEZ Пакетная подписка",
+  "servers": [
+    {
+      "remarks": "⚡️ Авто (самый быстрый)",
+      "outbounds": [
+        {
+          "protocol": "vless",
+          "settings": {
+            "vnext": [
+              {
+                "address": "151.245.92.252",
+                "port": 8443,
+                "users": [
+                  {
+                    "encryption": "none",
+                    "flow": "xtls-rprx-vision",
+                    "id": "75394cf2-310c-4492-bd7c-1ade07b5d7da"
+                  }
+                ]
+              }
+            ]
+          },
+          "streamSettings": {
+            "network": "tcp",
+            "security": "reality",
+            "realitySettings": {
+              "fingerprint": "safari",
+              "serverName": "pingless.com",
+              "publicKey": "FscaEWx0paNBzL7GWHj4Fll7Xc-KxdhKgTthBAnByWI"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "remarks": "🇱🇺 HTNEZ ARHIP BOG",
+      "outbounds": [
+        {
+          "protocol": "shadowsocks",
+          "settings": {
+            "servers": [
+              {
+                "address": "185.250.45.163",
+                "port": 4129,
+                "method": "chacha20-ietf-poly1305",
+                "password": "Kg5NRMdbXzKqMCO04CbOYb"
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "remarks": "🇩🇪 Германия (pingless.com)",
+      "outbounds": [
+        {
+          "protocol": "vless",
+          "settings": {
+            "vnext": [
+              {
+                "address": "151.245.92.252",
+                "port": 8443,
+                "users": [
+                  {
+                    "encryption": "none",
+                    "flow": "xtls-rprx-vision",
+                    "id": "75394cf2-310c-4492-bd7c-1ade07b5d7da"
+                  }
+                ]
+              }
+            ]
+          },
+          "streamSettings": {
+            "network": "tcp",
+            "security": "reality",
+            "realitySettings": {
+              "fingerprint": "safari",
+              "serverName": "pingless.com",
+              "publicKey": "FscaEWx0paNBzL7GWHj4Fll7Xc-KxdhKgTthBAnByWI"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "remarks": "🇷🇺 Россия (quiz-vk-1)",
+      "outbounds": [
+        {
+          "protocol": "vless",
+          "settings": {
+            "vnext": [
+              {
+                "address": "quiz-vk-1.quizy-easy.ru",
+                "port": 443,
+                "users": [
+                  {
+                    "encryption": "mlkem768x25519plus.xorpub.0rtt.100-500-2000.90-100-500.80-0-5000.xMCMQaLBBQMNtTguX3qAycEfluhW-iaFBTFP7iShaDYASchxoPMFOOgLp5QoYmFz77hNIYJgCGg0ncOXOOKM6zIsGWNL37ws4dVTtkJUeoZJTUmN4DJP1UORsqwHn3pV-7GDjPl16mSY9iZeLzYI03WzLcslm2KR3QPMM4eUKwLQdogOWUlUAERhXSrAa4XHHTdCJMqJMNk7pKapZYgCVaex3EJFXFlfEwldG_QiNJCUXZcwWXoSeEdd-haQ5drGf3hpCGioHYQyS0iPcyQ6ERsNSNGAWLmqJtVcQxdX27m8VEt42lJlIYAkzWPMYhibZgFKTshY1RctxDhIdDEp1YMF0ZK6rrOA3blvcGxePSFEZqUiYGB1IRs2BcrMCtwwGGUo-mtf2KaRxse7gcUms3x7XeJe3JQ087N_L4okh5sGbfIBF6N9tanLUbUbFyc8hNUz0LkKXey3ZhOgosCvsLahnsBpI9Ol9pq7zXifGrUQlnt9L7iyDkIeXigZ-cMhJVhw_FxFmIl9BpGTH9effrYCzja3K3mXsNh-EPVbdrXBBQev2VwhdGh2qFTHc3m7oMPDpQRko_xzr2B_O6zF0LSJ5dCWscqOYUJP_7qBAwWstRCJGmpStWgKGUJ53KkVYPzM9ae9QUS0UnzOrYgcFYsF-PPD2gkYYELGcKe9UOe0fveItSRcMKif_fzFRVB1bHrCZulySDCdaHsD6IfJzQdSS5uwIMgw6jk8xKBOlNVhMIx1SLuD--IVSRwBnKsaZ8QFWml_SunI_ELKbEGLTpaZVSyPBLExpqKFApASj1XDbvJc7ekXlrS5fKoxhUwL8zR3aKF1YhqZIMVVJ9GZEQBhBBB2giZZedJ8rONQQns-QwFm0lK10EW_EjE46-GJzCGw3FtisqcCWGkmeDWjYHqrJ5qYf1OHi3WKSRk9wKvGqiPJY1WB15fBNoSBWEEAwogFyHyXMQt5RjQGTCy-x-CNnhvD1etwFXeBEbGmVoDG6reP18onGZsyxBk530eI_Cg-uaowtfGVSbNh8rA3qAKwd-tE8_wGV8kzsJy8PlAwm0UnVyUWrBpZrGWxoxiBPEZb_HkejwWQCphlbVDEPgVoyfmVLgtOi7k-H7clXOmZJrJhcqYsbnVlkAwKpJFDoghI9oSPygQpF-jBtrcc4RUxOiGyHXlvnmLM1ORxeLI61uBalLmzPYqdd5xELlRFjNcbMRZ3gCGC3KMDgZNP4tWb9_xvXzHGNcwnCPKIawFe7ChnG9k1vIVf7xNnjTEuh1xXo4AA3zXFJiCV24e7jXWsbgZUhcGxW_SK1dejojBmzZY3jlRO1zqawFyjAVdN81RJE6Bp73ldlcrDwHOUk1RpdPtXutC0qoE8zskNuvVU8OKutXOfueQHtkYnGSFKH5Y9RYs8EgMZ3sELcyNxPhkR5phy3BlzL_Aya6EorSHKZVBiZpiTx1LHClKBBgw2uTuorzycHxGnEugh8zO0zBmGTZGWhwgmG6AekVKpxgBa0GyZ35VAbCmQJvcXD_hWBJY263_lC5nkXKiSMFnNiNUijarOtdp9dkZXoFP7USg",
+                    "flow": "xtls-rprx-vision",
+                    "id": "75394cf2-310c-4492-bd7c-1ade07b5d7da"
+                  }
+                ]
+              }
+            ]
+          },
+          "streamSettings": {
+            "network": "tcp",
+            "security": "reality",
+            "realitySettings": {
+              "fingerprint": "chrome",
+              "serverName": "quiz-vk-1.quizy-easy.ru",
+              "publicKey": "SNPMmBy_aPRn5ZDrkza1dpvUgA7n3Bp_i04Y0nUD2x8"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "remarks": "🇱🇺 HTNEZ ARHIP BOG ALT",
+      "outbounds": [
+        {
+          "protocol": "shadowsocks",
+          "settings": {
+            "servers": [
+              {
+                "address": "185.250.45.163",
+                "port": 4129,
+                "method": "chacha20-ietf-poly1305",
+                "password": "Kg5NRMdbXzKqMCO04CbOYb"
+              }
+            ]
+          }
+        }
+      ]
+    }
+  ]
+}
