@@ -1,8 +1,8 @@
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprYVFIM2hHZGNQODBYRURJ@admin.c2.havij.co:443#🇱🇺 HTNEZ SUB 🇱🇺 Люксембург1
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprYVFIM2hHZGNQODBYRURJ@admin.c2.havij.co:443#🇱🇺 HTNEZ SUB 🇱🇺 Люксембург2
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.189:8080#🇱🇺 HTNEZ SUB 🇱🇺 Люксембург ALT1
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.189:8080#🇱🇺 HTNEZ SUB 🇱🇺 Люксембург ALT2
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpLZzVOUk1kYlh6S3FNQ08wNENiT1li@185.250.45.163:4129#🇱🇺 HTNEZ SUB 🇱🇺 Люксембург3
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpLZzVOUk1kYlh6S3FNQ08wNENiT1li@185.250.45.163:4129#🇱🇺 HTNEZ SUB 🇱🇺 Люксембург4
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprYVFIM2hHZGNQODBYRURJ@admin.c2.havij.co:443#🇱🇺 HTNEZ SUB 🇱🇺Люксембург1
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprYVFIM2hHZGNQODBYRURJ@admin.c2.havij.co:443#🇱🇺 HTNEZ SUB 🇱🇺Люксембург2
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.189:8080#🇱🇺 HTNEZ SUB 🇱🇺Люксембург ALT1
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.189:8080#🇱🇺 HTNEZ SUB 🇱🇺Люксембург ALT2
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpLZzVOUk1kYlh6S3FNQ08wNENiT1li@185.250.45.163:4129#🇱🇺 HTNEZ SUB 🇱🇺Люксембург3
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpLZzVOUk1kYlh6S3FNQ08wNENiT1li@185.250.45.163:4129#🇱🇺 HTNEZ SUB 🇱🇺Люксембург4
 vless://75394cf2-310c-4492-bd7c-1ade07b5d7da@151.245.92.252:8443?flow=xtls-rprx-vision&type=tcp&security=reality&fp=safari&sni=pingless.com&pbk=FscaEWx0paNBzL7GWHj4Fll7Xc-KxdhKgTthBAnByWI#🇱🇺 HTNEZ SUB 🇱🇺 Люксембург (VLESS)
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprYVFIM2hHZGNQODBYRURJ@admin.c2.havij.co:443#🇱🇺 HTNEZ ЛУЧШИЙ VPN FAST Люксембург
