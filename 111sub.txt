@@ -1,30 +1,4 @@
-	json
-{
-  "version": 1,
-  "remarks": "HTNEZ SUB Pack",
-  "servers": [
-    {
-      "remarks": "🇺🇸 HTNEZ SUB США 1",
-      "outbounds": [{
-        "protocol": "vmess",
-        "settings": {
-          "vnext": [{
-            "address": "38.33.49.97",
-            "port": 37002,
-            "users": [{
-              "id": "418048af-a293-4b99-9b0c-98ca3580dd24",
-              "security": "auto"
-            }]
-          }]
-        },
-        "streamSettings": {
-          "network": "ws",
-          "security": "tls",
-          "wsSettings": {
-            "path": "/",
-            "headers": { "Host": "www.43499599.xyz" }
-          },
-          "tlsSettings": { "serverName": "www.43499599.xyz" }
-        }
-      }]
-    }
+trojan://347ca311-8fc2-499c-8fe1-bd0ecb50f1b3@5.34.222.4:43642?security=tls&insecure=1&headerType=none&type=tcp&allowInsecure=1&sni=iepl.usq1.cat.bilibili.com#🇷🇺 HTNEZ SUB Россия 01
+trojan://byDSOLVPDd@47.245.158.76:49147?security=reality&sni=play.google.com&fp=chrome&pbk=kC0ruZ1MPr6xJlqxtX0R9IasI5wW4bJ8UqeGZWw1r30&sid=848ecf47e1b2&type=tcp&headerType=none#🇷🇺 HTNEZ SUB Россия 02
+trojan://byDSOLVPDd@yxxoxomchoyk.eu-central-1.clawcloudrun.com:49147?security=reality&sni=play.google.com&fp=chrome&pbk=kC0ruZ1MPr6xJlqxtX0R9IasI5wW4bJ8UqeGZWw1r30&sid=848ecf47e1b2&type=tcp&headerType=none#🇷🇺 HTNEZ SUB Россия 03
+trojan://byDSOLVPDd@yxxoxomchoyk.eu-central-1.clawcloudrun.com:49147?security=reality&pbk=kC0ruZ1MPr6xJlqxtX0R9IasI5wW4bJ8UqeGZWw1r30&headerType=none&fp=chrome&type=tcp&sni=play.google.com&sid=848ecf47e1b2#🇷🇺 HTNEZ SUB Россия 04
