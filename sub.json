@@ -3,7 +3,7 @@
   "remarks": "HTNEZ Пакетная подписка",
   "servers": [
     {
-      "remarks": "⚡️ Авто (самый быстрый)",
+      "remarks": "Htnez fast",
       "outbounds": [
         {
           "protocol": "vless",
@@ -35,7 +35,7 @@
       ]
     },
     {
-      "remarks": "🇱🇺 HTNEZ ARHIP BOG",
+      "remarks": "htnez sub",
       "outbounds": [
         {
           "protocol": "shadowsocks",
@@ -53,7 +53,7 @@
       ]
     },
     {
-      "remarks": "🇩🇪 Германия (pingless.com)",
+      "remarks": "🇩🇪 Германия htnez",
       "outbounds": [
         {
           "protocol": "vless",
@@ -85,7 +85,7 @@
       ]
     },
     {
-      "remarks": "🇷🇺 Россия (quiz-vk-1)",
+      "remarks": "🇷🇺 Россия htnez",
       "outbounds": [
         {
           "protocol": "vless",
