@@ -3,7 +3,7 @@
   "remarks": "🇷🇺 HTNEZ WHITE POOL",
   "servers": [
     {
-      "remarks": "🇷🇺 white 01 (5.188.115.82:3443)",
+      "remarks": "🇷🇺 white 01",
       "outbounds": [
         {
           "protocol": "vless",
@@ -36,7 +36,7 @@
       ]
     },
     {
-      "remarks": "🇷🇺 white 02 (5.188.115.82:443)",
+      "remarks": "🇷🇺 white 02",
       "outbounds": [
         {
           "protocol": "vless",
@@ -69,7 +69,7 @@
       ]
     },
     {
-      "remarks": "🇷🇺 white 03 (185.40.152.133:6443)",
+      "remarks": "🇷🇺 white 03",
       "outbounds": [
         {
           "protocol": "vless",
@@ -102,7 +102,7 @@
       ]
     },
     {
-      "remarks": "🇷🇺 white 04 (37.139.35.13:8443)",
+      "remarks": "🇷🇺 white 04",
       "outbounds": [
         {
           "protocol": "vless",
@@ -135,7 +135,7 @@
       ]
     },
     {
-      "remarks": "🇷🇺 white 05 (178.250.246.224:7443)",
+      "remarks": "🇷🇺 white 05",
       "outbounds": [
         {
           "protocol": "vless",
@@ -168,7 +168,7 @@
       ]
     },
     {
-      "remarks": "🇷🇺 white 06 (89.208.87.210:443)",
+      "remarks": "🇷🇺 white 06",
       "outbounds": [
         {
           "protocol": "vless",
@@ -201,7 +201,7 @@
       ]
     },
     {
-      "remarks": "🇷🇺 white 07 (130.193.56.144:8443)",
+      "remarks": "🇷🇺 white 07",
       "outbounds": [
         {
           "protocol": "vless",
@@ -234,7 +234,7 @@
       ]
     },
     {
-      "remarks": "🇷🇺 white 08 (quiz-1.quizy-easy.ru:443)",
+      "remarks": "🇷🇺 white 08",
       "outbounds": [
         {
           "protocol": "vless",
