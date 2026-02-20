@@ -1,0 +1,268 @@
+{
+  "version": 1,
+  "remarks": "🇷🇺 HTNEZ WHITE POOL",
+  "servers": [
+    {
+      "remarks": "🇷🇺 white 01 (5.188.115.82:3443)",
+      "outbounds": [
+        {
+          "protocol": "vless",
+          "settings": {
+            "vnext": [
+              {
+                "address": "5.188.115.82",
+                "port": 3443,
+                "users": [
+                  {
+                    "encryption": "none",
+                    "flow": "xtls-rprx-vision",
+                    "id": "580dad9c-1b21-41f3-bd85-dc61e183d73e"
+                  }
+                ]
+              }
+            ]
+          },
+          "streamSettings": {
+            "network": "tcp",
+            "security": "reality",
+            "realitySettings": {
+              "fingerprint": "random",
+              "serverName": "max.ru",
+              "publicKey": "nLVAbXs5asAkKffn3oQy27DEusg68QUvJ7Fy8I-KVmk",
+              "shortId": "aaaa"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "remarks": "🇷🇺 white 02 (5.188.115.82:443)",
+      "outbounds": [
+        {
+          "protocol": "vless",
+          "settings": {
+            "vnext": [
+              {
+                "address": "5.188.115.82",
+                "port": 443,
+                "users": [
+                  {
+                    "encryption": "none",
+                    "flow": "xtls-rprx-vision",
+                    "id": "580dad9c-1b21-41f3-bd85-dc61e183d73e"
+                  }
+                ]
+              }
+            ]
+          },
+          "streamSettings": {
+            "network": "tcp",
+            "security": "reality",
+            "realitySettings": {
+              "fingerprint": "random",
+              "serverName": "cdn.tracker.yandex.net",
+              "publicKey": "S0GxtKvJarUvHObNJXhnY9WnNmVrMgzOn6IMKK95UA",
+              "shortId": "909090"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "remarks": "🇷🇺 white 03 (185.40.152.133:6443)",
+      "outbounds": [
+        {
+          "protocol": "vless",
+          "settings": {
+            "vnext": [
+              {
+                "address": "185.40.152.133",
+                "port": 6443,
+                "users": [
+                  {
+                    "encryption": "none",
+                    "flow": "xtls-rprx-vision",
+                    "id": "580dad9c-1b21-41f3-bd85-dc61e183d73e"
+                  }
+                ]
+              }
+            ]
+          },
+          "streamSettings": {
+            "network": "tcp",
+            "security": "reality",
+            "realitySettings": {
+              "fingerprint": "random",
+              "serverName": "ads.x5.ru",
+              "publicKey": "Q6NGyhT4Z2_QZ58RKp7MlBTWzxZNDiQxpv0ErQlFz0A",
+              "shortId": "1111"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "remarks": "🇷🇺 white 04 (37.139.35.13:8443)",
+      "outbounds": [
+        {
+          "protocol": "vless",
+          "settings": {
+            "vnext": [
+              {
+                "address": "37.139.35.13",
+                "port": 8443,
+                "users": [
+                  {
+                    "encryption": "none",
+                    "flow": "xtls-rprx-vision",
+                    "id": "580dad9c-1b21-41f3-bd85-dc61e183d73e"
+                  }
+                ]
+              }
+            ]
+          },
+          "streamSettings": {
+            "network": "tcp",
+            "security": "reality",
+            "realitySettings": {
+              "fingerprint": "random",
+              "serverName": "eh.vk.com",
+              "publicKey": "nLVAbXs5asAkKffn3oQy27DEusg68QUvJ7Fy8I-KVmk",
+              "shortId": "aaaa"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "remarks": "🇷🇺 white 05 (178.250.246.224:7443)",
+      "outbounds": [
+        {
+          "protocol": "vless",
+          "settings": {
+            "vnext": [
+              {
+                "address": "178.250.246.224",
+                "port": 7443,
+                "users": [
+                  {
+                    "encryption": "none",
+                    "flow": "xtls-rprx-vision",
+                    "id": "580dad9c-1b21-41f3-bd85-dc61e183d73e"
+                  }
+                ]
+              }
+            ]
+          },
+          "streamSettings": {
+            "network": "tcp",
+            "security": "reality",
+            "realitySettings": {
+              "fingerprint": "random",
+              "serverName": "partners.lemanapro.ru",
+              "publicKey": "nLVAbXs5asAkKffn3oQy27DEusg68QUvJ7Fy8I-KVmk",
+              "shortId": "abcd"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "remarks": "🇷🇺 white 06 (89.208.87.210:443)",
+      "outbounds": [
+        {
+          "protocol": "vless",
+          "settings": {
+            "vnext": [
+              {
+                "address": "89.208.87.210",
+                "port": 443,
+                "users": [
+                  {
+                    "encryption": "none",
+                    "flow": "xtls-rprx-vision",
+                    "id": "580dad9c-1b21-41f3-bd85-dc61e183d73e"
+                  }
+                ]
+              }
+            ]
+          },
+          "streamSettings": {
+            "network": "tcp",
+            "security": "reality",
+            "realitySettings": {
+              "fingerprint": "random",
+              "serverName": "www.vk.com",
+              "publicKey": "Q6NGyhT4Z2_QZ58RKp7MlBTWzxZNDiQxpv0ErQlFz0A",
+              "shortId": "999999"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "remarks": "🇷🇺 white 07 (130.193.56.144:8443)",
+      "outbounds": [
+        {
+          "protocol": "vless",
+          "settings": {
+            "vnext": [
+              {
+                "address": "130.193.56.144",
+                "port": 8443,
+                "users": [
+                  {
+                    "encryption": "none",
+                    "flow": "xtls-rprx-vision",
+                    "id": "580dad9c-1b21-41f3-bd85-dc61e183d73e"
+                  }
+                ]
+              }
+            ]
+          },
+          "streamSettings": {
+            "network": "tcp",
+            "security": "reality",
+            "realitySettings": {
+              "fingerprint": "random",
+              "serverName": "ozon.ru",
+              "publicKey": "-ORclKQi2UlhwBncOo-Q--hQugN-2M3SYbOODSYClRg",
+              "shortId": "909090"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "remarks": "🇷🇺 white 08 (quiz-1.quizy-easy.ru:443)",
+      "outbounds": [
+        {
+          "protocol": "vless",
+          "settings": {
+            "vnext": [
+              {
+                "address": "quiz-1.quizy-easy.ru",
+                "port": 443,
+                "users": [
+                  {
+                    "encryption": "none",
+                    "flow": "xtls-rprx-vision",
+                    "id": "580dad9c-1b21-41f3-bd85-dc61e183d73e"
+                  }
+                ]
+              }
+            ]
+          },
+          "streamSettings": {
+            "network": "tcp",
+            "security": "tls",
+            "tlsSettings": {
+              "fingerprint": "safari",
+              "serverName": "quiz-1.quizy-easy.ru"
+            }
+          }
+        }
+      ]
+    }
+  ]
+}
