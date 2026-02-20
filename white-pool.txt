@@ -1,4 +1,4 @@
-#🇷🇺 HTNEZ WHITE POOL 1 DAY
+#🇷🇺 HTNEZ WHITE POOL
 vless://580dad9c-1b21-41f3-bd85-dc61e183d73e@5.188.115.82:3443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=random&pbk=nLVAbXs5asAkKffn3oQy27DEusg68QUvJ7Fy8I-KVmk&sid=aaaa&sni=max.ru#🇷🇺 white 01
 vless://580dad9c-1b21-41f3-bd85-dc61e183d73e@5.188.115.82:443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=random&pbk=S0GxtKvJarUvHObNJXhnY9WnNmVrMgzOn6IMKK95UA&sid=909090&sni=cdn.tracker.yandex.net#🇷🇺 white 02
 vless://580dad9c-1b21-41f3-bd85-dc61e183d73e@185.40.152.133:6443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=random&pbk=Q6NGyhT4Z2_QZ58RKp7MlBTWzxZNDiQxpv0ErQlFz0A&sid=1111&sni=ads.x5.ru#🇷🇺 white 03
