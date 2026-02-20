@@ -1,0 +1,104 @@
+{
+  "dns": { "servers": ["1.1.1.1", "8.8.8.8"] },
+  "inbounds": [ { "port": 10808, "protocol": "socks", "tag": "socks" } ],
+  "outbounds": [
+    {
+      "protocol": "vless",
+      "tag": "proxy",
+      "settings": {
+        "vnext": [{
+          "address": "5.188.115.82",
+          "port": 3443,
+          "users": [{
+            "encryption": "none",
+            "flow": "xtls-rprx-vision",
+            "id": "580dad9c-1b21-41f3-bd85-dc61e183d73e"
+          }]
+        }]
+      },
+      "streamSettings": {
+        "network": "tcp",
+        "security": "reality",
+        "realitySettings": {
+          "fingerprint": "random",
+          "serverName": "max.ru",
+          "publicKey": "nLVAbXs5asAkKffn3oQy27DEusg68QUvJ7Fy8I-KVmk",
+          "shortId": "aaaa"
+        }
+      }
+    },
+    { "protocol": "freedom", "tag": "direct" }
+  ],
+  "routing": {
+    "rules": [
+      { "inboundTag": ["socks"], "outboundTag": "proxy" },
+      { "ip": ["geoip:private"], "outboundTag": "direct" }
+    ]
+  },
+  "remarks": "🇷🇺 HTNEZ white (Atlanta)"
+}
+{
+  "dns": { "servers": ["1.1.1.1", "8.8.8.8"] },
+  "inbounds": [ { "port": 10808, "protocol": "socks", "tag": "socks" } ],
+  "outbounds": [
+    {
+      "protocol": "vless",
+      "tag": "proxy",
+      "settings": {
+        "vnext": [{
+          "address": "151.245.92.252",
+          "port": 8443,
+          "users": [{
+            "encryption": "none",
+            "flow": "xtls-rprx-vision",
+            "id": "75394cf2-310c-4492-bd7c-1ade07b5d7da"
+          }]
+        }]
+      },
+      "streamSettings": {
+        "network": "tcp",
+        "security": "reality",
+        "realitySettings": {
+          "fingerprint": "safari",
+          "serverName": "pingless.com",
+          "publicKey": "FscaEWx0paNBzL7GWHj4Fll7Xc-KxdhKgTthBAnByWI"
+        }
+      }
+    },
+    { "protocol": "freedom", "tag": "direct" }
+  ],
+  "routing": {
+    "rules": [
+      { "inboundTag": ["socks"], "outboundTag": "proxy" },
+      { "ip": ["geoip:private"], "outboundTag": "direct" }
+    ]
+  },
+  "remarks": "🇳🇱 HTNEZ free NL"
+}
+{
+  "dns": { "servers": ["1.1.1.1", "8.8.8.8"] },
+  "inbounds": [ { "port": 10808, "protocol": "socks", "tag": "socks" } ],
+  "outbounds": [
+    {
+      "protocol": "shadowsocks",
+      "tag": "proxy",
+      "settings": {
+        "servers": [{
+          "address": "admin.c2.havij.co",
+          "port": 443,
+          "method": "chacha20-ietf-poly1305",
+          "password": "kaQH3hGdcP80XEDI",
+          "uot": true
+        }]
+      }
+    },
+    { "protocol": "freedom", "tag": "direct" }
+  ],
+  "routing": {
+    "rules": [
+      { "inboundTag": ["socks"], "outboundTag": "proxy" },
+      { "ip": ["geoip:private"], "outboundTag": "direct" }
+    ]
+  },
+  "remarks": "🇱🇺 HTNEZ free LU"
+}
