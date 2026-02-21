@@ -16,4 +16,4 @@ vless://580dad9c-1b21-41f3-bd85-dc61e183d73e@quiz-1.quizy-easy.ru:443?flow=xtls-
 vless://75394cf2-310c-4492-bd7c-1ade07b5d7da@151.245.92.252:8443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=safari&pbk=FscaEWx0paNBzL7GWHj4Fll7Xc-KxdhKgTthBAnByWI&sni=pingless.com#HTNEZ US 01
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprYVFIM2hHZGNQODBYRURJ@admin.c2.havij.co:443#HTNEZ US 02
 vless://75394cf2-310c-4492-bd7c-1ade07b5d7da@151.245.92.252:8443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=safari&pbk=FscaEWx0paNBzL7GWHj4Fll7Xc-KxdhKgTthBAnByWI&sni=pingless.com#HTNEZ CA 01
-vless://65756824-435e-47c0-ff31-b24a5405e79d@116.203.11.168:2052?security=none&encryption=none&host=bmi.ir&headerType=http&type=tcp#%F0%9D%97%9D%F0%9D%97%BC%F0%9D%97%B6%F0%9D%97%BB%20%E2%9E%A0%20%40HTNEZ CA02%20%7C%20%DA%A9%D8%A7%D9%86%D8%A7%D9%84%20%D9%85%D8%A7
+
