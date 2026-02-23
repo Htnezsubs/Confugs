@@ -1,8 +1,1 @@
-#🇷🇺 HTNEZ WHITE POOL
-vless://580dad9c-1b21-41f3-bd85-dc61e183d73e@5.188.115.82:3443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=random&pbk=nLVAbXs5asAkKffn3oQy27DEusg68QUvJ7Fy8I-KVmk&sid=aaaa&sni=max.ru#🇷🇺 white 01
-vless://580dad9c-1b21-41f3-bd85-dc61e183d73e@185.40.152.133:6443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=random&pbk=Q6NGyhT4Z2_QZ58RKp7MlBTWzxZNDiQxpv0ErQlFz0A&sid=1111&sni=ads.x5.ru#🇷🇺 white 03
-vless://580dad9c-1b21-41f3-bd85-dc61e183d73e@37.139.35.13:8443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=random&pbk=nLVAbXs5asAkKffn3oQy27DEusg68QUvJ7Fy8I-KVmk&sid=aaaa&sni=eh.vk.com#🇷🇺 white 04
-vless://580dad9c-1b21-41f3-bd85-dc61e183d73e@178.250.246.224:7443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=random&pbk=nLVAbXs5asAkKffn3oQy27DEusg68QUvJ7Fy8I-KVmk&sid=abcd&sni=partners.lemanapro.ru#🇷🇺 white 05
-vless://580dad9c-1b21-41f3-bd85-dc61e183d73e@89.208.87.210:443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=random&pbk=Q6NGyhT4Z2_QZ58RKp7MlBTWzxZNDiQxpv0ErQlFz0A&sid=999999&sni=www.vk.com#🇷🇺 white 06
-vless://580dad9c-1b21-41f3-bd85-dc61e183d73e@130.193.56.144:8443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=random&pbk=-ORclKQi2UlhwBncOo-Q--hQugN-2M3SYbOODSYClRg&sid=909090&sni=ozon.ru#🇷🇺 white 07
-vless://580dad9c-1b21-41f3-bd85-dc61e183d73e@quiz-1.quizy-easy.ru:443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=tls&fp=safari&sni=quiz-1.quizy-easy.ru#🇷🇺 white 08
+vless://580dad9c-1b21-41f3-bd85-dc61e183d73e@5.185.115.12:3443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=random&pbk=nLVAbXs5asAkKffn3oQy27DEusg68QUvJ7Fy8I-KVmk&sid=aaaa&sni=max.ru#ПОДПИСКА КОНЧИЛАСЬ КУПИТЬ @HTNEZ V TG
