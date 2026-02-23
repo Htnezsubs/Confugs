@@ -1,1 +1,1 @@
-vless://580dad9c-1b21-41f3-bd85-dc61e183d73e@5.185.115.12:3443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=random&pbk=nLVAbXs5asAkKffn3oQy27DEusg68QUvJ7Fy8I-KVmk&sid=aaaa&sni=max.ru#ПОДПИСКА КОНЧИЛАСЬ КУПИТЬ @HTNEZ V TG
+vless://a7b9c3d1-e4f5-4a6b-8c7d-9e0f1a2b3c4d@185.143.233.10:443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=chrome&pbk=5xQmZ2pR8tLk9WfHvY3sN6cJbG4aD7eF1uT8yXwM0nP&sni=yahoo.com&sid=6a8b9c2d#кОНЧИЛАСЬ КУПИТЬ -@htnez v tg
