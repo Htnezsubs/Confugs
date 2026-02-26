@@ -16,3 +16,4 @@ vless://580dad9c-1b21-41f3-bd85-dc61e183d73e@quiz-1.quizy-easy.ru:443?flow=xtls-
 vless://75394cf2-310c-4492-bd7c-1ade07b5d7da@151.245.92.252:8443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=safari&pbk=FscaEWx0paNBzL7GWHj4Fll7Xc-KxdhKgTthBAnByWI&sni=pingless.com#Htnez United States 🇺🇸 I
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprYVFIM2hHZGNQODBYRURJ@admin.c2.havij.co:443#Htnez United States 🇺🇸 II
 vless://75394cf2-310c-4492-bd7c-1ade07b5d7da@151.245.92.252:8443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=safari&pbk=FscaEWx0paNBzL7GWHj4Fll7Xc-KxdhKgTthBAnByWI&sni=pingless.com#Htnez Canada 🇨🇦 I
+trojan://qmBSKnAl6LYi9=z23Rs.Z@37.235.49.209:28099?type=tcp&security=tls&sni=celestialcorset.crystalhamster.click&fp=chrome&allowInsecure=0#Htnez Islandiya 🇮🇸 I
