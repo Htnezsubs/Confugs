@@ -1,7 +1,7 @@
 vless://75394cf2-310c-4492-bd7c-1ade07b5d7da@151.245.92.252:8443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=safari&pbk=FscaEWx0paNBzL7GWHj4Fll7Xc-KxdhKgTthBAnByWI&sni=pingless.com#Htnez Netherlands 🇳🇱 I
 vless://75394cf2-310c-4492-bd7c-1ade07b5d7da@151.245.92.252:8443?flow=xtls-rprx-vision&type=tcp&security=reality&fp=safari&sni=pingless.com&pbk=FscaEWx0paNBzL7GWHj4Fll7Xc-KxdhKgTthBAnByWI#Htnez Netherlands 🇳🇱 II
 vless://75394cf2-310c-4492-bd7c-1ade07b5d7da@151.245.92.252:8443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=safari&pbk=FscaEWx0paNBzL7GWHj4Fll7Xc-KxdhKgTthBAnByWI&sni=pingless.com#Htnez Germany 🇩🇪 I
-vless://1dd94d15-8f73-4152-814b-d74cd11c54c9@146.185.208.206:4443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=chrome&pbk=do22ES2nDjO0EggET4H9Gf8_tEY7PwZv76zVXPrDojQ&sid=5f22&sni=ads.x5.ru#Htnez Germany 🇩🇪 II
+vless://75394cf2-310c-4492-bd7c-1ade07b5d7da@151.245.92.252:8443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=safari&pbk=FscaEWx0paNBzL7GWHj4Fll7Xc-KxdhKgTthBAnByWI&sni=pingless.com#Htnez Germany 🇩🇪 II
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpXNzRYRkFMTEx1dzZtNUlB@series-a2.samanehha.co:443#Htnez United Kingdom 🇬🇧 I
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprYVFIM2hHZGNQODBYRURJ@admin.c2.havij.co:443#Htnez Luxembourg 🇱🇺 I
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpLZzVOUk1kYlh6S3FNQ08wNENiT1li@185.250.45.163:4129#Htnez Luxembourg 🇱🇺 II
