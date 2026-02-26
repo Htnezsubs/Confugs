@@ -14,5 +14,5 @@ vless://580dad9c-1b21-41f3-bd85-dc61e183d73e@89.208.87.210:443?flow=xtls-rprx-vi
 vless://580dad9c-1b21-41f3-bd85-dc61e183d73e@130.193.56.144:8443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=random&pbk=-ORclKQi2UlhwBncOo-Q--hQugN-2M3SYbOODSYClRg&sid=909090&sni=ozon.ru#Htnez Russia 🇷🇺 VII
 vless://580dad9c-1b21-41f3-bd85-dc61e183d73e@quiz-1.quizy-easy.ru:443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=tls&fp=safari&sni=quiz-1.quizy-easy.ru#Htnez Russia 🇷🇺 VIII
 vless://75394cf2-310c-4492-bd7c-1ade07b5d7da@151.245.92.252:8443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=safari&pbk=FscaEWx0paNBzL7GWHj4Fll7Xc-KxdhKgTthBAnByWI&sni=pingless.com#Htnez United States 🇺🇸 I
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprYVFIM2hHZGNQODBYRURJ@admin.c2.havij.co:443#Htnez United States 🇺🇸 II
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpoYkdycGZ2TnJKc1VtS21QYlIzaVky@tinkered-pennies-puppies.freesocks.work:443#Htnez United States 🇺🇸 II
 vless://75394cf2-310c-4492-bd7c-1ade07b5d7da@151.245.92.252:8443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=safari&pbk=FscaEWx0paNBzL7GWHj4Fll7Xc-KxdhKgTthBAnByWI&sni=pingless.com#Htnez Canada 🇨🇦 I
