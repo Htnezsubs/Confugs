@@ -1,0 +1,8 @@
+Арсений, [28.02.2026 17:45]
+vless://615da830-f118-428f-bb47-69c1b2481f1a@hu.nodes.rocketnetwork.ru:443?flow=xtls-rprx-vision&type=tcp&headerType=none&security=reality&fp=chrome&sni=max.ru&pbk=Mn0DIMKW6zu0_D3E1qKO7xMlIVZvB-rqO_-f7Le2vAs&sid=428ef87fd47a3a32#Htnez white pool I
+
+Арсений, [28.02.2026 17:45]
+vless://615da830-f118-428f-bb47-69c1b2481f1a@nl.nodes.rocketnetwork.ru:10065?type=ws&security=none#Htnez white pool II
+Арсений, [28.02.2026 17:45]
+vless://615da830-f118-428f-bb47-69c1b2481f1a@ruy.nodes.rocketnetwork.ru:443?flow=xtls-rprx-vision&type=tcp&headerType=none&security=reality&fp=chrome&sni=m.vk.com&pbk=Mn0DIMKW6zu0_D3E1qKO7xMlIVZvB-rqO_-f7Le2vAs&sid=428ef87fd47a3a32#Htnez white pool III
+vless://615da830-f118-428f-bb47-69c1b2481f1a@ruv.nodes.rocketnetwork.ru:443?flow=xtls-rprx-vision&type=tcp&headerType=none&security=reality&fp=chrome&sni=m.vk.com&pbk=Mn0DIMKW6zu0_D3E1qKO7xMlIVZvB-rqO_-f7Le2vAs&sid=428ef87fd47a3a32#Htnez white pool IIII
