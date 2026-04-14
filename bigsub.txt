@@ -1,3 +1,4 @@
 vless://23f2aae0-1f6b-4b4e-b592-c9658a5c51bf@217.16.30.58:443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=chrome&pbk=jSx3_X_tBAcNgp7SrKSfZnr5WN0cTN2ShEJv4rHceQU&sni=web.max.ru#[📶 LTE] Белые Списки I
 vless://23f2aae0-1f6b-4b4e-b592-c9658a5c51bf@217.16.30.58:443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=chrome&pbk=jSx3_X_tBAcNgp7SrKSfZnr5WN0cTN2ShEJv4rHceQU&sni=web.max.ru#[📶 LTE] Белые Списки II
 vless://23f2aae0-1f6b-4b4e-b592-c9658a5c51bf@217.16.30.58:443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=chrome&pbk=jSx3_X_tBAcNgp7SrKSfZnr5WN0cTN2ShEJv4rHceQU&sni=web.max.ru#[📶 LTE] Белые Списки III
+vless://23f2aae0-1f6b-4b4e-b592-c9658a5c51bf@158.160.135.170:443?flow=xtls-rprx-vision&type=tcp&headerType=none&security=reality&fp=chrome&sni=rambler.ru&pbk=jSx3_X_tBAcNgp7SrKSfZnr5WN0cTN2ShEJv4rHceQU#[📶 LTE] Белые Списки IV
