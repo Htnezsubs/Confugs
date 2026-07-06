@@ -5,7 +5,7 @@
 
 vless://43948542-5c01-4fc3-bf42-e339e9ca3fbe@45.86.74.9:443?type=xhttp&host=pimg.mycdn.me&path=&mode=auto&security=reality&fp=random&sni=pimg.mycdn.me&pbk=B4NK8UZflXK2SI7P6wvCbfSw0wspQRO0ElZM30gc_1E#личка @htnez
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpLZzVOUk1kYlh6S3FNQ08wNENiT1li@185.250.45.163:4129#канал @Htnez_fast_vpn
-vless://06b7029b-2690-4e84-a02b-c32b41902abf@de.nodes.rocketnetwork.ru:443?flow=xtls-rprx-vision&type=tcp&headerType=none&security=reality&fp=chrome&sni=de.nodes.rocketnetwork.ru&pbk=Mn0DIMKW6zu0_D3E1qKO7xMlIVZvB-rqO_-f7Le2vAs&sid=428ef87fd47a3a32#🇩🇪 WIFI Germany #1 [DE]
+happ://crypt/dmxlc3M6Ly8wNmI3MDI5Yi0yNjkwLTRlODQtYTAyYi1jMzJiNDE5MDJhYmZAZGUubm9kZXMucm9ja2V0bmV0d29yay5ydTo0NDM/Zmxvdz14dGxzLXJwcngtdmlzaW9uJnR5cGU9dGNwJmhlYWRlclR5cGU9bm9uZSZzZWN1cml0eT1yZWFsaXR5JmZwPWNocm9tZSZzbmk9ZGUubm9kZXMucm9ja2V0bmV0d29yay5ydSZwYms9TW4wRElNS1c2enUwX0QzRTFxS083eE1sSVZadkItcnFPXy1mN0xlMnZBcyZzaWQ9NDI4ZWY4N2ZkNDdhM2EzMiPwn4epIEdlcm1hbnkgV0lGSSAjMSBbREVd
 vless://06b7029b-2690-4e84-a02b-c32b41902abf@de.nodes.rocketnetwork.ru:10047?type=grpc&mode=gun&serviceName=stream&security=reality&fp=chrome&sni=wikiportal.su&pbk=ZbClkr9LMZQxfrXcaUeJZN6hdIm_Ghrtp8V506tRngI&sid=79cc4fb5692bd4c9#🇩🇪 WIFI Germany #2 [DE]
 vless://f21647ee-bf83-4496-a010-1e24785a5c71@germ.freeinternat.com:443?flow=xtls-rprx-vision&type=tcp&headerType=none&security=reality&fp=firefox&sni=germ.freeinternat.com&pbk=bZpzmeWiEJyJQy0W2hHc34Nr6BuFXj1UDd80Cbwh1Fk&sid=ff776ff77be48b88&spx=/#🇩🇪 WIFI Germany #3 [DE]
 vless://16d53ab6-ffb8-4c6d-a6ed-cc4af2eb1502@144.31.237.65:603?type=grpc&mode=gun&serviceName=&security=reality&fp=edge&sni=www.amd.com&pbk=lWJaKBaMPs0NYHGCbfsrmn64R4juEQEvfmHNnL741Ek#🇫🇮 WIFI Finland fast🔥 [FI]
