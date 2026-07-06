@@ -1,6 +1,7 @@
 #ПОДПИСКА HTHEZ SUPER SUB. ВСЕ СЕРВЕРЫ С БЕЛЫМИ IP.
-# Официальный канал: @Htnez_subs
-# Срок действия: до 2026-06-01
+#Официальный канал: @Htnez_subs
+#Срок действия: до 2026-06-01
+#Рекомендуем использовать VPN для WiFi, Обходы белых списков - для мобильного интернета
 
 vless://43948542-5c01-4fc3-bf42-e339e9ca3fbe@45.86.74.9:443?type=xhttp&host=pimg.mycdn.me&path=&mode=auto&security=reality&fp=random&sni=pimg.mycdn.me&pbk=B4NK8UZflXK2SI7P6wvCbfSw0wspQRO0ElZM30gc_1E#личка @htnez
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpLZzVOUk1kYlh6S3FNQ08wNENiT1li@185.250.45.163:4129#канал @Htnez_fast_vpn
