@@ -2,6 +2,7 @@
 # Официальный канал: @Htnez_subs
 # Срок действия: до 2026-06-01
 
+vless://43948542-5c01-4fc3-bf42-e339e9ca3fbe@45.86.74.9:443?type=xhttp&host=pimg.mycdn.me&path=&mode=auto&security=reality&fp=random&sni=pimg.mycdn.me&pbk=B4NK8UZflXK2SI7P6wvCbfSw0wspQRO0ElZM30gc_1E#личка @htnez
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpLZzVOUk1kYlh6S3FNQ08wNENiT1li@185.250.45.163:4129#канал @Htnez_fast_vpn
 vless://06b7029b-2690-4e84-a02b-c32b41902abf@de.nodes.rocketnetwork.ru:443?flow=xtls-rprx-vision&type=tcp&headerType=none&security=reality&fp=chrome&sni=de.nodes.rocketnetwork.ru&pbk=Mn0DIMKW6zu0_D3E1qKO7xMlIVZvB-rqO_-f7Le2vAs&sid=428ef87fd47a3a32#🇩🇪 WIFI Germany #1
 vless://06b7029b-2690-4e84-a02b-c32b41902abf@de.nodes.rocketnetwork.ru:10047?type=grpc&mode=gun&serviceName=stream&security=reality&fp=chrome&sni=wikiportal.su&pbk=ZbClkr9LMZQxfrXcaUeJZN6hdIm_Ghrtp8V506tRngI&sid=79cc4fb5692bd4c9#🇩🇪 WIFI Germany #2
